@@ -54,7 +54,7 @@
         <mybatis.spring.version>2.0.1</mybatis.spring.version>
         <mybatis-plus-join>1.2.0</mybatis-plus-join>
         <mysql.connector.version>8.0.28</mysql.connector.version>
-        <org.apache.sshd.version>2.9.2</org.apache.sshd.version>
+        <org.apache.sshd.version>2.10.0</org.apache.sshd.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <spotless.ratchetFrom>origin/dev</spotless.ratchetFrom>
