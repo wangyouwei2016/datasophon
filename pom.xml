@@ -70,7 +70,7 @@
         <junit.version>5.9.0</junit.version>
         <org.freemarker.verion>2.3.30</org.freemarker.verion>
         <commons-codec.version>1.15</commons-codec.version>
-        <commons-compress.version>1.21</commons-compress.version>
+        <commons-compress.version>1.26.0</commons-compress.version>
         <jackson-annotations.version>2.13.0</jackson-annotations.version>
         <ant.version>1.10.12</ant.version>
         <jsch.version>0.2.7</jsch.version>
